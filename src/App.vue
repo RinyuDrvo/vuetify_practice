@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-flex xs6>
+    <v-flex xs12 md6>
       <v-card>
         <v-card-title>title</v-card-title>
       </v-card>
