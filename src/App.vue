@@ -1,10 +1,6 @@
 <template>
   <v-app>
-    <v-flex xs12 md6>
-      <v-card>
-        <v-card-title>title</v-card-title>
-      </v-card>
-    </v-flex>
+    <v-main> Hello World </v-main>
   </v-app>
 </template>
 
